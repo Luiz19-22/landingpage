@@ -1,0 +1,1 @@
+Olá este projeto é uma landing page de apresentação de um BOT para discord, ela foi cirada utilizando somente Html e Css.
